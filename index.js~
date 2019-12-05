@@ -317,7 +317,6 @@ function carMaker(num) {
 		this.odometer += distance;
 		return this.odometer;
 	}
-	return myObject;
 }
 
 /// ////// END OF CHALLENGE /////////
